@@ -1,0 +1,5 @@
+.env
+reports/
+run.log
+__pycache__/
+cards/
